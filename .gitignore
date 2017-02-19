@@ -1,14 +1,47 @@
-.gradle
-build/
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# Folder config file
+Desktop.ini
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Cache of project
-.gradletasknamecache
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
